@@ -1,3 +1,3 @@
-HI this my repository
+Hi this my repository
 <br>
-Author- June
+Author- June (junee)
